@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/wolunteer-web/static/css/main.4974343f.chunk.css",
+    "main.js": "/wolunteer-web/static/js/main.319e1a26.chunk.js",
+    "main.js.map": "/wolunteer-web/static/js/main.319e1a26.chunk.js.map",
+    "runtime-main.js": "/wolunteer-web/static/js/runtime-main.0df9aaad.js",
+    "runtime-main.js.map": "/wolunteer-web/static/js/runtime-main.0df9aaad.js.map",
+    "static/js/2.00de257e.chunk.js": "/wolunteer-web/static/js/2.00de257e.chunk.js",
+    "static/js/2.00de257e.chunk.js.map": "/wolunteer-web/static/js/2.00de257e.chunk.js.map",
+    "static/js/3.cf1a3489.chunk.js": "/wolunteer-web/static/js/3.cf1a3489.chunk.js",
+    "static/js/3.cf1a3489.chunk.js.map": "/wolunteer-web/static/js/3.cf1a3489.chunk.js.map",
+    "index.html": "/wolunteer-web/index.html",
+    "static/css/main.4974343f.chunk.css.map": "/wolunteer-web/static/css/main.4974343f.chunk.css.map",
+    "static/js/2.00de257e.chunk.js.LICENSE.txt": "/wolunteer-web/static/js/2.00de257e.chunk.js.LICENSE.txt",
+    "static/media/icone.99b39587.png": "/wolunteer-web/static/media/icone.99b39587.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0df9aaad.js",
+    "static/js/2.00de257e.chunk.js",
+    "static/css/main.4974343f.chunk.css",
+    "static/js/main.319e1a26.chunk.js"
+  ]
+}
